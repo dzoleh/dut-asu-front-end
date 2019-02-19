@@ -1,5 +1,6 @@
 {
   "name": "dut-asu-front-end",
+  "description": "Тестовый Проект, аналог АСУ ДУТ",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
